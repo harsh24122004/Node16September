@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Ignazio",
+    "last_name": "Piddletown",
+    "email": "ipiddletown0@hc360.com",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Wadsworth",
+    "last_name": "Twelvetrees",
+    "email": "wtwelvetrees1@wired.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Deeann",
+    "last_name": "Wilkin",
+    "email": "dwilkin2@phoca.cz",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Kassia",
+    "last_name": "Kerman",
+    "email": "kkerman3@mlb.com",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Abey",
+    "last_name": "Karolewski",
+    "email": "akarolewski4@meetup.com",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "first_name": "Giorgio",
+    "last_name": "Janousek",
+    "email": "gjanousek5@scientificamerican.com",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Heriberto",
+    "last_name": "Burford",
+    "email": "hburford6@cyberchimps.com",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Essa",
+    "last_name": "Mayne",
+    "email": "emayne7@walmart.com",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Bail",
+    "last_name": "Bourdice",
+    "email": "bbourdice8@princeton.edu",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Kinnie",
+    "last_name": "Maybury",
+    "email": "kmaybury9@spiegel.de",
+    "gender": "Male"
+  }
+]
